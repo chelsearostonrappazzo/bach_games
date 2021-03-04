@@ -1,0 +1,1 @@
+render partial: "idol.json.jb", locals: { idol: @idol }

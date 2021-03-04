@@ -1,0 +1,5 @@
+{
+  name: idol.name,
+  position: idol.position,
+  group: idol.group,
+}

@@ -1,0 +1,3 @@
+@group.map do |idol|
+  render partial: "idol.json.jb", locals: { idol: idol }
+end

@@ -1,0 +1,1 @@
+render partial: "trope.json.jb", locals: { trope: @trope }

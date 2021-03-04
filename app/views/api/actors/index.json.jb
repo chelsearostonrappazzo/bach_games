@@ -1,0 +1,4 @@
+@actors.map do |actor|
+  { name: actor.name,
+   known_for: actor.known_for }
+end
